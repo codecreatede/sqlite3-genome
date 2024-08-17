@@ -7,4 +7,7 @@
 
 <img src = "https://github.com/gauravcodepro/sql-genome-render/blob/main/UML.png" >
 
-Gaurav 
+Gaurav Sablok \
+University of Potsdam \
+Potsdam,Germany
+
