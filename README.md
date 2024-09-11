@@ -5,7 +5,7 @@
 - this is also compatible with the pymongo, javascript and php. 
 - below is the UML for the following
 
-<img src = "https://github.com/gauravcodepro/sql-genome-render/blob/main/UML.png" >
+<img src = "https://github.com/codecreatede/sqlite3-genome/blob/main/UML.png" >
 
 Gaurav Sablok \
 University of Potsdam \
